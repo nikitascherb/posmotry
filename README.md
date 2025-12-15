@@ -1,4 +1,4 @@
-https://github.com/MikeBeloborodov/posmotri_v_okno
+https://github.com/nikitascherb/posmotri-v-okno-ad-n.git
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
@@ -6,8 +6,6 @@ https://github.com/MikeBeloborodov/posmotri_v_okno
 
 - [Скриншот](#скриншот)
 - [Описание](#описание)
-- [Автор](#автор)
-- [Благодарность](#благодарность)
 
 ### Скриншот
 
@@ -16,12 +14,3 @@ https://github.com/MikeBeloborodov/posmotri_v_okno
 ### Описание
 
 Данное приложение позволяет "выглянуть" из окон самых разных городов мира.
-
-## Автор
-
-- Github - [Mike Beloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
-
-## Благодарность
-
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
