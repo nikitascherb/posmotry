@@ -1,4 +1,4 @@
-https://github.com/nikitascherb/posmotri-v-okno-ad
+https://github.com/nikitascherb/posmotry
 
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
